@@ -7,4 +7,8 @@ public class TestGit {
 		System.out.println("hello world --->git!");
 		System.out.println("git上直接修改，模拟另一个同事提交的，第三次提交!");
 	}
+	
+	public void testBranch() {
+		System.out.println("dev新分支上的第一行代码，第一次提交！");
+	}
 }
