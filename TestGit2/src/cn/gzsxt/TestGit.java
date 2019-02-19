@@ -11,5 +11,6 @@ public class TestGit {
 	public void testBranch() {
 		System.out.println("dev新分支上的第一行代码，第一次提交！");
 		System.out.println("dev新分支上模拟同事的修改，第二次提交！");
+		System.out.println("模拟冲突，模拟本地仓库的修改第七次提交！");
 	}
 }
